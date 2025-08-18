@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Nurudeen</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndeen17" alt="ndeen17" /></a> </p>
@@ -15,8 +15,6 @@
 - 🤝 I’m looking for help with **Biopython**
 
 - 💬 Ask me about **Javascript, React, Python**
-
-- 📫 How to reach me **Nurudeeny17@gmail.com**
 
 - ⚡ Fun fact **incredibly fun to hang with**
 
